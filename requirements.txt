@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+langgraph
+openai
+pydantic
+python-dotenv
+openai-whisper 
+oogle-generativeai
