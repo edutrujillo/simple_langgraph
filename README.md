@@ -73,7 +73,7 @@ This project is completely developed using 'vibe coding' after several hours of 
 
 1. **Clone the project from GitHub:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/edutrujillo/simple_langgraph.git
    cd simple_langgraph
    ```
 
